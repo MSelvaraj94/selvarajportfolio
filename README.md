@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Yugandhar Pichaiah!
 
-I'm a passionate and self-driven developer with experience in **Java**, **DevOps**, **Python**, and **SQL**. I enjoy building backend systems, automating workflows, and solving problems with code and infrastructure.
+I'm a passionate and self-driven developer with experience in **Java**, **Front-End**,**Spring Boot** and **SQL**. I enjoy building backend systems, automating workflows, and solving problems with code and infrastructure.
 
 ---
 
@@ -25,16 +25,16 @@ I'm a passionate and self-driven developer with experience in **Java**, **DevOps
 ### 📚 Currently Learning
 
 - Java fullstack
-- Devops
+- Front-End
 - Advanced Spring Boot and Microservices
-- Python fullstack
+- PostgrSQL
 
 ---
 
 ### 💬 Ask Me About
 
 - Java development & backend architecture
-- Docker & containerization
+- Hibernate & Spring Core
 - Writing optimized SQL queries
 - GitHub Actions
 
@@ -42,17 +42,17 @@ I'm a passionate and self-driven developer with experience in **Java**, **DevOps
 
 ### 📫 How to Reach Me
 
-- 📧 Email: [yugandharp572@gmail.com]
-- 💼 LinkedIn: [www.linkedin.com/in/yugandhar-p](#)
+- 📧 Email: [seshuselvaraj608@gmail.com]
+- 💼 LinkedIn: [www.linkedin.com/in/selvaraj594](#)
 
 
 ---
 
 ### 📈 GitHub Stats
 
-![Yugandhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugandharpichaiah&show_icons=true&theme=default)
+![Selvaraj GitHub stats](https://github-readme-stats.vercel.app/api?username=Selvaraj&show_icons=true&theme=default)
 
 <!-- Optional extras -->
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugandharpichaiah&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Selvaraj&layout=compact)
 -->
