@@ -52,7 +52,7 @@ I'm a passionate and self-driven developer with experience in **Java**, **Front-
 
 ### 📈 GitHub Stats
 
-![Selvaraj GitHub stats](https://github-readme-stats.vercel.app/api?username=Selvaraj&show_icons=true&theme=default)
+![Selvaraj GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
 <!-- Optional extras -->
 <!--
