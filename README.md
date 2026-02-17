@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm  SelvaRaj M!
+## 👋 Hi , I'm  SelvaRaj M!
 
 I'm a passionate and self-driven developer with experience in **Java**, **Front-End**,**Spring Boot** and **SQL**. I enjoy building backend systems, automating workflows, and solving problems with code and infrastructure.
 
