@@ -130,8 +130,9 @@ a {
 }
 
 #skills-section {
-  padding: 80px 0;
+  padding: 80px ;
 }
+
 
 .skill-box {
   background: #ffffff;
@@ -150,21 +151,29 @@ a {
 .skill-box h6 {
   font-weight: 600;
   margin-bottom: 10px;
+   /* border: 2px dotted rgba(238, 12, 12, 0.511); */
 }
 
 .skill-box span {
   font-weight: 600;
-  color: #0dcaf0;
+  color: #0dcaf0; 
+  border: 2px dotted rgba(255, 255, 255, 0.511); 
 }
-
+/* #skills{
+  display: flex;
+  gap: 200px;
+} */
 .progress {
   height: 8px;
   border-radius: 5px;
   background-color: #e9ecef;
+  border: 2px solid rgba(16, 209, 39, 0.69); 
+  
 }
 
 .progress-bar {
   background-color: #0dcaf0;
   border-radius: 5px;
+  
 }
 
